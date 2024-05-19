@@ -8,7 +8,7 @@ export default function Home() {
       <Header />
       <div className="flex flex-wrap items-center justify-center gap-0.5 px-6 md:px-28 mt-5 mb-5">
         {image.map((image) => (
-          <PixelBox src={image} />
+          <PixelBox key={image} src={image} />
         ))}
       </div>
     </main>

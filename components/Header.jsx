@@ -7,7 +7,9 @@ export default function Header() {
             <div>
                 <h1 className="text-2xl font-bold">pi<span className="text-stone-600 text-3xl">X</span>el</h1>
             </div>
-            <Button>Own A Pixel <Star className="w-4 h-4" /></Button>
+            <a href="https://github.com/r2hu1/the-github-pixel" target="_blank">
+                <Button>Own A Pixel <Star className="w-4 h-4" /></Button>
+            </a>
         </header>
     )
 }
