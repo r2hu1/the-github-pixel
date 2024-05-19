@@ -1,6 +1,6 @@
 Inspired by The Bitcoin Pixel where anyone can buy themselves a pixel for some cents worth of bitcoin
 
-[preview](/public/preview.png)
+![preview](/public/preview.png)
 
 ## The Github Pixel
 
